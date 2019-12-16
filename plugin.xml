@@ -4,9 +4,6 @@
     <name>CreativeAds admob</name>
     <description>Admob implementation for CreativeAds mobile</description>
     <keywords>cordova,ads,banner,interstitial,monetization,ad,creativeads,plugins</keywords>
-    <js-module src="www/creativeads.js" name="CreativeAds">
-        <runs/>
-    </js-module>
 
     <platform name="android">
          
