@@ -14,7 +14,7 @@
        
         <config-file target="res/xml/config.xml" parent="/*">
             <feature name="tapdaqplugin">
-                <param name="android-package" value="com.creativeads.tapdaq"/>
+                <param name="android-package" value="com.creativeads.tapdaq.tapdaqplugin"/>
                 <param name="onload" value="true" />
             </feature>
         </config-file>
